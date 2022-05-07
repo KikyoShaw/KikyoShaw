@@ -39,7 +39,7 @@
 <br>
 
 <div align="center">
-	<img src="https://github.com/KikyoShaw/KikyoShaw/tree/master/qrc/Tools.png" />
+	<img src="https://github.com/KikyoShaw/KikyoShaw/blob/master/qrc/Tools.png" />
 </div>
 <br>
 
