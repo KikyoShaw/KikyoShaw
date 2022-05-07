@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F74213&center=true&lines=%E4%B8%80%E5%90%8D%E9%BB%98%E9%BB%98%E6%90%AC%E7%A0%96%E4%B8%AD%E7%9A%84%E5%B0%8F%E7%A0%81%E5%86%9C)](https://git.io/typing-svg)
 
 <div align="center">
-	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+	<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </div>
 <br>
 
