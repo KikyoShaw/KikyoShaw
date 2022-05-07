@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F74213&center=true&lines=%E4%B8%80%E5%90%8D%E9%BB%98%E9%BB%98%E6%90%AC%E7%A0%96%E4%B8%AD%E7%9A%84%E5%B0%8F%E7%A0%81%E5%86%9C)](https://git.io/typing-svg)
 
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
+<div align="center">
+	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+</div>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -37,6 +39,11 @@
 <br>
 
 <div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" />
+</div>
+<br>
+
+<div align="center">
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KikyoShaw&theme=dark&hide_border=true" />
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
@@ -50,7 +57,7 @@
 <br>
 
 <div align="center">
-	<img align="center" src="https://stats.justsong.cn/api/csdn?id=qq_36651243" />
+	<img align="center" src="https://stats.justsong.cn/api/csdn?id=qq_36651243&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
 <!--
