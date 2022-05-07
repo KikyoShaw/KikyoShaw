@@ -44,9 +44,9 @@
 <br>
 
 <div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+  <img width="150" src="https://github.com/KikyoShaw/KikyoShaw/blob/master/qrc/1.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KikyoShaw&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+  <img width="150" src="https://github.com/KikyoShaw/KikyoShaw/blob/master/qrc/2.png" />
 </div>
 <br>
 
