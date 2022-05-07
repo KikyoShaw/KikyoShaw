@@ -27,7 +27,6 @@
 <div align="center">
 	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </div>
-<br>
 
 <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
