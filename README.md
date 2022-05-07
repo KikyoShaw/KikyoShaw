@@ -2,7 +2,7 @@
 
 [![KikyoShaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=KikyoShaw)](https://github.com/anuraghazra/github-readme-stats)
 
-![KikyoShaw's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KikyoShaw GitHub ID&layout=compact&hide_border=true&langs_count=10)
+![KikyoShaw's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KikyoShaw&layout=compact&hide_border=true&langs_count=10)
 
 <!--
 **KikyoShaw/KikyoShaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
