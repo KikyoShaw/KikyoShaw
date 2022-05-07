@@ -7,6 +7,8 @@
 
 [![KikyoShaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=KikyoShaw)](https://github.com/anuraghazra/github-readme-stats)![KikyoShaw's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KikyoShaw&layout=compact&hide_border=true&langs_count=10)
 
+![](https://stats.justsong.cn/api/csdn?id=qq_36651243)
+
 [![KikyoShaw's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KikyoShaw&theme=xcode)](https://github.com/KikyoShaw)
 
 <!--
