@@ -34,6 +34,7 @@
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
+<br>
 
 <div align="center">
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
@@ -48,7 +49,9 @@
 </div>
 <br>
 
-![](https://stats.justsong.cn/api/csdn?id=qq_36651243)
+<div align="center">
+	<img align="center" src="https://stats.justsong.cn/api/csdn?id=qq_36651243" />
+</div>
 
 <!--
 **KikyoShaw/KikyoShaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
