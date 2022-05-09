@@ -59,7 +59,9 @@
 <br>
 
 <div align="center">
+	<img width="150" src="https://github.com/KikyoShaw/KikyoShaw/blob/master/qrc/1.png" />
 	<img align="center" src="https://stats.justsong.cn/api/csdn?id=qq_36651243&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+	<img width="150" src="https://github.com/KikyoShaw/KikyoShaw/blob/master/qrc/2.png" />
 </div>
 
 <!--
