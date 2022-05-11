@@ -9,6 +9,7 @@
 <div align="center">
 	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </div>
+<br>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
