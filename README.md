@@ -1,5 +1,15 @@
 ### Welcome to my GitHub（欢迎大家来到我的主页） 👋
 
+![](https://visitor-badge.glitch.me/badge?page_id=KikyoShaw)
+
+<div align="center">
+	<img src="https://readme-typing-svg.herokuapp.com?size=25&color=F74213&center=true&lines=%E4%B8%80%E5%90%8D%E9%BB%98%E9%BB%98%E6%90%AC%E7%A0%96%E4%B8%AD%E7%9A%84%E5%B0%8F%E7%A0%81%E5%86%9C">
+</div>
+
+<div align="center">
+	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+</div>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
@@ -18,15 +28,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
-![](https://visitor-badge.glitch.me/badge?page_id=KikyoShaw)
-
-<div align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?size=25&color=F74213&center=true&lines=%E4%B8%80%E5%90%8D%E9%BB%98%E9%BB%98%E6%90%AC%E7%A0%96%E4%B8%AD%E7%9A%84%E5%B0%8F%E7%A0%81%E5%86%9C">
-</div>
-
-<div align="center">
-	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-</div>
 
 <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
