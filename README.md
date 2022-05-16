@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://twitter.com/kikyoshaw"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
-  <a href="https://www.huya.com/"><img src="https://img.shields.io/badge/huya-%E8%99%8E%E7%89%99-blue"></a>&emsp;
+  <a href="https://gitee.com/ligemo/"><img src="https://img.shields.io/badge/Gitee-码云-blue"></a>&emsp;
   <a href="https://www.youtube.com/channel/UCYreiOapB_k66p5pnJAV_UQ/featured"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
   <a href="https://blog.csdn.net/qq_36651243/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
   <a href="https://space.bilibili.com/75649200/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
