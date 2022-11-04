@@ -6,6 +6,7 @@
   <a href="https://www.youtube.com/channel/UCYreiOapB_k66p5pnJAV_UQ/featured"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
   <a href="https://blog.csdn.net/qq_36651243/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
   <a href="https://space.bilibili.com/75649200/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+  <a href="https://www.douyin.com/user/MS4wLjABAAAAqsU3RCbLlZUVyrMnWXr7IWv0SyPgGaelAkXaRLtc7bw"><img src="https://img.shields.io/badge/douyin-%E6%8A%96%E9%9F%B3-ff69b4"></a>&emsp;
   <a href="https://user.qzone.qq.com/1939484341/"><img src="https://img.shields.io/badge/QQ-%E7%A9%BA%E9%97%B4-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/shi-san-xian-sheng-84-65/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
   <a href="https://www.52pojie.cn/home.php?mod=space&uid=1884685/"><img src="https://img.shields.io/badge/52pojie-%E5%90%BE%E7%88%B1%E7%A0%B4%E8%A7%A3-blue"></a>&emsp;
